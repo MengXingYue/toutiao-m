@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "toutiao";
+  /* Project id 4033034 */
+  src: url('//at.alicdn.com/t/c/font_4033034_9o7ri7f7kv.woff2?t=1682225273370') format('woff2'), url('//at.alicdn.com/t/c/font_4033034_9o7ri7f7kv.woff?t=1682225273370') format('woff'), url('//at.alicdn.com/t/c/font_4033034_9o7ri7f7kv.ttf?t=1682225273370') format('truetype');
+}
+.toutiao {
+  font-family: "toutiao" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.toutiao-guanbi:before {
+  content: "\e601";
+}
+.toutiao-zuojiantou:before {
+  content: "\e602";
+}
+.toutiao-youjiantou:before {
+  content: "\e603";
+}
+.toutiao-shouye:before {
+  content: "\e604";
+}
+.toutiao-wuwangluo:before {
+  content: "\e605";
+}
+.toutiao-yanzhengma:before {
+  content: "\e606";
+}
+.toutiao-zuopin:before {
+  content: "\e607";
+}
+.toutiao-wenda:before {
+  content: "\e608";
+}
+.toutiao-sousuo:before {
+  content: "\e609";
+}
+.toutiao-wode:before {
+  content: "\e60a";
+}
+.toutiao-yuedu:before {
+  content: "\e60b";
+}
+.toutiao-shouji:before {
+  content: "\e60c";
+}
